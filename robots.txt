@@ -1,1 +1,1 @@
-Sitemap: https://www.flantiers.heroku.com/sitemap.xml
+Sitemap: https://flantiers.herokuapp.com//sitemap.xml
